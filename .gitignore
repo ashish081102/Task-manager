@@ -1,0 +1,8 @@
+.firebase/
+build/
+dist/
+node_modules/
+
+.firebaserc
+firebase.json
+vite.config.js 
